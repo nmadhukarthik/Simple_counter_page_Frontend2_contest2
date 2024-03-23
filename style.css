@@ -1,0 +1,67 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body
+{
+    background-color: black;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#heading
+{
+    font-size: 40px;
+    padding: 50px;
+}
+
+
+#counterContainer
+{
+    display: flex;
+    align-items: center;
+    justify-content:left;  
+    margin-left: 50px;
+}
+
+#counterNumber
+{
+    padding: 5px;
+}
+
+hr
+{
+    margin-left: 50px;
+    width: 185px;
+}
+
+
+#errorSpace
+{
+    margin-left: 50px;
+    margin-top: 20px;
+    color: red
+}
+
+#buttons
+{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+button
+{
+    padding: 5px;
+    margin: 5px;
+    width: 120px;
+}
+
+#clear
+{
+    background-color: black;
+    color: white;
+    border: solid 1px;
+}
